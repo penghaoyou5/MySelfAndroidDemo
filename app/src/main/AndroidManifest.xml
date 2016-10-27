@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhangtielei.demos.async.programming" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".multitask.simultaneousrequests.MultiRequestsDemoActivity"
+            android:label="@string/title_activity_multi_requests_demo" >
+        </activity>
+        <activity
+            android:name=".multitask.pagecaching.PageCachingDemoActivity"
+            android:label="@string/title_activity_page_caching_demo" >
+        </activity>
+        <activity
+            android:name=".multitask.simultaneousrequests.rxjavasolution.MultiRequestsDemoActivity"
+            android:label="@string/title_activity_multi_requests_demo" >
+        </activity>
+        <activity
+            android:name=".introduction.servicebinding.ServiceBindingDemoActivity"
+            android:label="@string/title_activity_service_binding_demo" >
+        </activity>
+
+        <service
+            android:name=".introduction.servicebinding.service.SomeService"
+            android:enabled="true"
+            android:exported="false" >
+        </service>
+
+        <activity
+            android:name=".callback.emoji.EmojiDownloadDemoListActivity"
+            android:label="@string/title_activity_emoji_download_demo_list" >
+        </activity>
+        <activity
+            android:name=".callback.emoji.v1.EmojiDownloadDemoActivity"
+            android:label="@string/title_activity_emoji_download_demo" >
+        </activity>
+        <activity
+            android:name=".callback.emoji.v2.EmojiDownloadDemoActivity"
+            android:label="@string/title_activity_emoji_download_demo" >
+        </activity>
+        <activity
+            android:name=".callback.emoji.v3.EmojiDownloadDemoActivity"
+            android:label="@string/title_activity_emoji_download_demo" >
+        </activity>
+        <activity
+            android:name=".callback.emoji.v4.EmojiDownloadDemoActivity"
+            android:label="@string/title_activity_emoji_download_demo" >
+        </activity>
+        <activity
+            android:name=".multitask.MultiTaskDemoListActivity"
+            android:label="@string/title_activity_multi_task_demo_list" >
+        </activity>
+        <activity
+            android:name=".multitask.multilevelcaching.ImageLoaderDemoActivity"
+            android:label="@string/title_activity_image_loader_demo" >
+        </activity>
+        <activity
+            android:name=".queueing.v1.TaskQueueDemoActivity"
+            android:label="@string/title_activity_task_queue_demo" >
+        </activity>
+        <activity
+            android:name=".queueing.QueueingDemoListActivity"
+            android:label="@string/title_activity_queueing_demo_list" >
+        </activity>
+        <activity
+            android:name=".queueing.v2.TaskQueueDemoActivity"
+            android:label="@string/title_activity_task_queue_demo" >
+        </activity>
+        <activity
+            android:name=".queueing.v3.TaskQueueDemoActivity"
+            android:label="@string/title_activity_task_queue_demo" >
+        </activity>
+    </application>
+
+</manifest>
