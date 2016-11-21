@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="SimpleImageView2">
+        <attr name="src" format="integer" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/TV_Default_Attr"
+        android:text="自定义View学习"
+        />
+
+    <TextView
+        android:text="描述"
+        android:id="@+id/tv_describe"
+        style="@style/TV_Default_Attr" />
+
+    <LinearLayout style="@style/Default_Padding_WarpContent"
+        android:id="@+id/ll_custom_view_wai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:orientation="vertical">
+
+        <combjzb.viewmodel.view.SimpleImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:background="#ccc"
+            android:paddingBottom="40dp"
+            android:paddingLeft="20dp"
+            app:exampleColor="#33b5e5"
+            app:exampleDimension="24sp"
+            app:exampleDrawable="@android:drawable/ic_menu_add"
+            app:exampleString="Hello, SimpleImageView" />
+
+    </LinearLayout>
+
+</LinearLayout>

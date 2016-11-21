@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp">
+
+    <TextView
+        android:background="#22000000"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="BitMapDrawableDemo" />
+
+    <TextView
+        android:id="@+id/tv_bitmap"
+        android:background="@drawable/bitmap_demo"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+    <android.support.v7.widget.AppCompatRadioButton
+        android:id="@+id/btn_gravity"
+        android:background="#22000000"
+        android:text="gravity"
+        android:layout_width="150dp"
+        android:layout_height="50dp" />
+
+    <android.support.v7.widget.AppCompatRadioButton
+        android:id="@+id/btn_mipmap"
+        android:background="#22ff0000"
+        android:text="mipmap"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        />
+    <android.support.v7.widget.AppCompatRadioButton
+        android:id="@+id/btn_tileMode"
+        android:background="#2200ff00"
+        android:text="tileMode"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        />
+
+</LinearLayout>

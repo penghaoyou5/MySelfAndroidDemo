@@ -1,1 +1,1 @@
-include ':app', ':actionbardemo', ':recycleviewdemo', ':lib', ':shapeshadowdemo'
+include ':app', ':actionbardemo', ':recycleviewdemo', ':lib', ':shapeshadowdemo', ':drawabledemo', ':viewmodel', ':simplenetdemo', ':okhttp'

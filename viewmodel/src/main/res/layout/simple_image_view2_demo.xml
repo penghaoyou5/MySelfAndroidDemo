@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:id="@+id/simple_image_view2_demo"
+    android:layout_height="match_parent">
+
+    <TextView
+        style="@style/TV_Default_Attr"
+        android:text="自定义View学习"
+        />
+
+    <TextView
+        android:text="描述"
+        android:id="@+id/tv_describe"
+        style="@style/TV_Default_Attr" />
+    <LinearLayout
+        android:padding="10dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_wc"
+            android:text="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv_mp"
+            android:text="march_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv_jt"
+            android:text="具体指120dp*180dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/Default_Padding_WarpContent"
+        android:id="@+id/ll_custom_view_wai"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:padding="0dp"
+        android:orientation="vertical">
+
+        <combjzb.viewmodel.view.SimpleImageViwe2
+            android:background="#99000000"
+            android:id="@+id/custom_view"
+            app:src="@drawable/tupian_demo1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

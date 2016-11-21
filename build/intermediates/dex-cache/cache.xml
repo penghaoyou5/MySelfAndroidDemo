@@ -1,2 +1,410 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_50e6cdd6e1d4eaa915b82d85d34cf2fff569c1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_361226a6effa65fdf1177d44688326eaa218b0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.9/e4362e62f1ba92e360b197d6d7ffae67e5ecae9a/rxjava-1.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4362e62f1ba92e360b197d6d7ffae67e5ecae9a">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/rxjava-1.1.9_dcdf3aeff9672eda47551389c48566a4b29dd196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3bb89430aa9b0ce53c4a818e1bd0d05020355d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_39eb6c80474510d49d5ad087bcca0511176c2eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_80714aa2e84b872658c367a7561780370b3564a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3bb89430aa9b0ce53c4a818e1bd0d05020355d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_b864b3a3a92d30c963c671a135d36f29675e3ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_fd393823eb929991a5a8f15594af0041e18547cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_c2635cba80e74378c876654abb6aa77322115770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1c7a58b83ca13d2c5281c2728cfaef6a9f1624f2">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/instant-run_b1599c16b694ff74781fef2e50f05a5b36b7827b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_240c472d0aa5b546c866205658f90708f884cd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c0f8a931d36a95709c0bc12d2b4505399985254a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_01992ae74d81dcffb15dfd3a214c02a4c9081373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c0f8a931d36a95709c0bc12d2b4505399985254a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_00d2e62fab2e57b74c2d9298f2dfa27b13a74e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_240c472d0aa5b546c866205658f90708f884cd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_db89915f710e2e6cab78b117990c24c01e8c95cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_00d2e62fab2e57b74c2d9298f2dfa27b13a74e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a60245b6b048d1f17ab4908fc8bd38074b366707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_41f884b89856a2c24f09229952541efb2f9ef273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_df16fbda7609e27ae1cc43ed30d305b88d80b5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_db89915f710e2e6cab78b117990c24c01e8c95cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.0_a25b63f0e5346623cbe144c1a08d6ef89fb6988e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_15286e0bdf95449d3da42ba05987d07c55b6fea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_011dc8ea6ceda4b642c6264a005844e36cf234d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_99688b019fa1e3b8ab54f62d04c1fd76d0dc4926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a60245b6b048d1f17ab4908fc8bd38074b366707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_fd393823eb929991a5a8f15594af0041e18547cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="71be28e7c5ca4ea3470ea727ad4ebfb9da0644e8">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f0f581c6eb26cef505e985b7dea17fd26e8f239d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fd8179c027404e2cd8777411641dc0ab505bcd34">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/instant-run_26f3277505ad5cfdd93d9a23a97de321664184d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_50814acc7a5784b19796375f432af8e695cf38d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_c2635cba80e74378c876654abb6aa77322115770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_637afe075a87a0f534c411e1b4734592fb9bcd13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_39eb6c80474510d49d5ad087bcca0511176c2eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_a0dbd81063b478156da1a8ec412db5bb2429c133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f01a591b4153eb7c9085c6f0017c567347dc3e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_297d9f5c79693a142effac962f3e35e404ccbf68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/simplenetdemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_a0dbd81063b478156da1a8ec412db5bb2429c133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_99688b019fa1e3b8ab54f62d04c1fd76d0dc4926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_df16fbda7609e27ae1cc43ed30d305b88d80b5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9ca3e2553800c8c2dd3f71d1d6d1f6aefcef2c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="52fee130b2edf39c5997eaf3472f101b539539dc">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c8f19e3b99c5c046bd9d7c371ef79aab70da9f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/drawabledemo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f786fce6fb03e7011e5a7c5451b7ba9b360158c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bjhl/ASGitHub/MySelfAndroidDemo/viewmodel/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_41f884b89856a2c24f09229952541efb2f9ef273.jar" />
+    </item>
+
+</items>
